@@ -1,0 +1,27 @@
+[
+  {
+    "userName": "Alice",
+    "password": "Alice4",
+    "credits": 4
+  },
+  {
+    "userName": "Bob",
+    "password": "Bob5",
+    "credits": 5
+  },
+  {
+    "userName": "Charlie",
+    "password": "Charlie2",
+    "credits": 2
+  },
+  {
+    "userName": "David",
+    "password": "David6",
+    "credits": 6
+  },
+  {
+    "userName": "Eve",
+    "password": "Eve3",
+    "credits": 3
+  }
+]
